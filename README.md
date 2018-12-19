@@ -14,3 +14,9 @@ http://blog.51cto.com/xikder/2331504
 
 Nginx Lua的执行阶段:
 http://blog.51cto.com/xikder/2331649
+
+《缓存利器》一、worker进程的共享内存
+http://blog.51cto.com/xikder/2332672
+
+《缓存利器》二、Lua模块下的共享内存
+http://blog.51cto.com/xikder/2332677
