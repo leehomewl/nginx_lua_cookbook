@@ -20,3 +20,6 @@ http://blog.51cto.com/xikder/2332672
 
 《缓存利器》二、Lua模块下的共享内存
 http://blog.51cto.com/xikder/2332677
+
+
+如果对Ngx_Lua开发有兴趣的朋友们，可以购买书籍 << Nginx实战：基于Lua语言的配置、开发与架构详解 >>https://item.jd.com/12487157.html
